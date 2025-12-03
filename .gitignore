@@ -1,0 +1,8 @@
+model/
+final/
+hf_cache/
+venv/
+__pycache__/
+*.bin
+*.zip
+.DS_Store
