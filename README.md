@@ -7,13 +7,13 @@ This repository contains the source code, training scripts, and demo for EmojiSe
 **emojisense_src**
 Contains the core codebase. This includes:
 * Training scripts for all three models (Emoji-to-Text, Prediction, and Style Transfer).
-* Cross-LLM validation scripts used to benchmark our results.
+* Cross-LLM validation scripts used to construct our high quality dataset.
 
 **emojisense_demo**
 A local web demo for Model 3 (the Age-Aware Style Transfer model). You can run this to interactively test the Gen Z and Boomer personas.
 
 **EmojiSense_presentation.pdf**
-A slide deck covering the project motivation, methodology, and summary of results.
+A slideshow covering the project motivation, methodology, and summary of results.
 
 ## Models & Weights
 
