@@ -1,6 +1,6 @@
 # EmojiSense
 
-This repository contains the source code, training scripts, and demo for \textsc{EmojiSense}, a project that develops an age-aware emoji-to-text translation model based on the BART-Large sequence-to-sequence transformer.
+This repository contains the source code, training scripts, and demo for **EmojiSense**, a project that develops an age-aware emoji-to-text translation model based on the BART-Large sequence-to-sequence transformer.
 
 ## Project Structure
 
