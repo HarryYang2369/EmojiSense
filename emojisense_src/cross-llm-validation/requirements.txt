@@ -1,0 +1,5 @@
+datasets==3.0.1
+pandas==2.2.2
+tqdm==4.66.5
+sentence-transformers==3.2.1
+sacrebleu==2.4.3

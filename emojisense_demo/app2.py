@@ -103,7 +103,7 @@ with gr.Blocks() as demo:
                 interactive=False  # Removed show_copy_button to fix crash
             )
 
-    with gr.Accordion("📚 Try these examples (Scroll to see more)", open=True):
+    with gr.Accordion("Try these examples (Scroll to see more)", open=True):
         with gr.Column(elem_id="example_scroll_box"):
             gr.Examples(
                 examples=[
